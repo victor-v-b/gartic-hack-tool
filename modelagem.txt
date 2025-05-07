@@ -1,0 +1,21 @@
+<div class="contentSpan pulsar">
+
+<span class="traco ativo">R</span>
+<span class="traco ativo">&nbsp;</span><span class="traco ativo">&nbsp;</span><span class="traco ativo">A</span><span class="traco ativo">&nbsp;</span><span class="traco ativo">&nbsp;</span><span class="traco ativo">&nbsp;</span></div>
+
+
+/html/body/div/div[2]/div[1]/nav/div[2]/div[1]/div/div
+
+1.
+pegar as letras e &nbsp dentro do span.text
+
+2.
+passa pro programa no seguinte formato:
+AxAxAxx
+
+3.
+filtra a database daquela categoria usando os caracteres passados
+
+4.
+tenta chutar cada uma das palavras que se encaixam na filtragem
+ 
